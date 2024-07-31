@@ -1,6 +1,6 @@
 ## [컬렉타임 - 최적의 모임 일정 조율 서비스](https://collecti.me/)
 
-[![컬렉타임 배너](https://collecti.me/temporary_image.png)](https://collecti.me/)
+[![컬렉타임 배너](https://github.com/user-attachments/assets/ee5db186-f882-4e51-b93e-90a5f9ec1cfc)](https://collecti.me/)
 
 ## Overview
 컬렉타임은 모임 구성원의 일정과 위치를 자동으로 취합 및 분석하여 최적의 모임 일정을 조율하는데 도움을 주는 서비스입니다.
